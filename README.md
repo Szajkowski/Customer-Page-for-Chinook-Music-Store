@@ -1,4 +1,4 @@
-# Customer Page for Chinook Music Store
+# Chinook Music Store
 
 A web application built with **ASP.NET Core MVC** that acts as a customer portal for the sample Chinook digital music store database. The application enables authenticated users to view their order history and detailed invoice information.
 
